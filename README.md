@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Kotlin, Concurrency, Distributed systems, DB
 - 👯 I’m looking to collaborate on Open source projects
 - 📫 How to reach me: [Telegram](https://t.me/Kvel4), d.monakhov0@gmail.com
+- 📄 My CV: [CV](https://github.com/Kvel4/CV)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kvel4&theme=solarized_dark)
